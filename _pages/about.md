@@ -3,11 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
----
-permalink: /about/
-title: "About"
----
-
 Hi, I'm Taylor 👋
 
 I'm a Cyber Security Graduate Apprentice based in Scotland, with a strong interest in digital forensics and cyber crime investigation (DFIR). This blog is where I document my learning journey — including CTF writeups, penetration testing reports, tool walkthroughs, and study notes.
